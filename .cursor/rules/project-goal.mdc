@@ -1,0 +1,12 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+The goal of this project is to create a job search "engine" that only looks at the career pages of companies, and not at other job search engines. The technology used is https://mastra.ai/, which is a TypeScript AI workflow and agent builder.
+
+In its final stage, the project will have the following features:
+1. Given a company page or a job ad, it finds the company's career page.
+2. Given a list of career pages, it finds relevant jobs. That means traversing through the pages.
+3. Given a person's CV, LinkedIn, etc., it generates a "search profile" for the AI.
+4. Updates/re-runs searches on career pages.
