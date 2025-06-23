@@ -1,7 +1,7 @@
 ---
 description: 
 globs: 
-alwaysApply: false
+alwaysApply: true
 ---
 The goal of this project is to create a job search "engine" that only looks at the career pages of companies, and not at other job search engines. The technology used is https://mastra.ai/, which is a TypeScript AI workflow and agent builder.
 
